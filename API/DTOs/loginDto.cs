@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace API.DTOs
 {
-    public class loginDto
+    public class LoginDto
     {
         public string Username {get; set;}
 
